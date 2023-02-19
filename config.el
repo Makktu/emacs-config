@@ -80,6 +80,6 @@
 ;; This is so buffers auto-save
 ;; auto save
 (setq auto-save-visited-interval 15)
-(auto-save-visited-mode +1)I
+(auto-save-visited-mode +1)
 
 ;;Can I see this on the Mini or wherever next I look?
